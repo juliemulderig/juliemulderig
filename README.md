@@ -1,3 +1,4 @@
 ## Hi there 👋
 
- 🌱 I’m a Software Engineering student at WGU, in my final year and excited to apply my skills to future projects.
+🎓 I’m a recent Software Engineering graduate from WGU, passionate about building scalable, user-friendly applications.  
+🌱 Currently deepening my skills in full-stack development and expanding my portfolio through personal projects.  
